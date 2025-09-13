@@ -1,2 +1,2 @@
 # site-cadastro-aula
-html basico
+html basico pra cadastro de aluno usando html js css
